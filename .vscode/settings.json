@@ -1,0 +1,12 @@
+{
+    "jshint.config": {
+        "esversion": 6
+    },
+    "eslint.alwaysShowStatus": true,
+    "eslint.debug": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.quiet": true,
+    "eslint.trace.server": null,
+    "jslint.enable": false
+}
